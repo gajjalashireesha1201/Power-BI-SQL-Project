@@ -1,4 +1,4 @@
-##📊 Employee Insights Dashboard##
+*** 📊 Employee Insights Dashboard  ***
 📌 Overview
 
 The Employee Insights Dashboard is a comprehensive project designed to manage, analyze, and visualize employee data.
